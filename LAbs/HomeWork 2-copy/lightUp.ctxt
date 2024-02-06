@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=lightUp
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ lightUp\ here.\r\n\r\n\ @author\ Rahnuma\ Islam\ Nishat\r\n\ @version\ Oct\ 26,\ 2023\r\n
+comment1.params=
+comment1.target=lightUp()
+comment1.text=The\ constructor\ does\ no\ initialization.
+comment2.params=
+comment2.target=void\ display()
+comment3.params=aPic
+comment3.target=Media.Picture\ makeBright(Media.Picture)
+comment3.text=\ This\ method\ converts\ a\ picture\ into\ a\ sunset\ by\ reducing\ the\ level\ of\r\n\ green\ and\ blue\ in\ each\ pixel\ by\ 30%.\r\n\ \r\n@param\ \ aPic\ \ picture\ to\ be\ converted.
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MakeEmpFile
+comment0.text=\ This\ class\ is\ a\ program\ to\ create\ the\ binary\ employee\ file.\r\n\ \r\n\ @author\ David\ Hughes\r\n\ \r\n\ @version\ 1.0\ (Aug.\ 2009)\r\n\r\nnew\ concepts\:\ creating\ a\ binary\ file
+comment1.params=
+comment1.target=MakeEmpFile()
+comment1.text=\ The\ constructor\ opens\ the\ data\ file\ for\ the\ emp\ info,\ creates\ a\r\ndisplay\ for\ user\ feedback,\ and\ creates\ the\ binary\ emp\ file.
+comment2.params=
+comment2.target=void\ create()
+comment2.text=This\ method\ creates\ the\ binary\ employee\ file.
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

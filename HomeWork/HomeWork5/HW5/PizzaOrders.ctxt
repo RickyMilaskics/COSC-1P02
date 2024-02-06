@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PizzaOrders
+comment1.params=
+comment1.target=PizzaOrders()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PizzaOrders\r\n
+comment2.params=num
+comment2.target=void\ GeneratePizzas(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

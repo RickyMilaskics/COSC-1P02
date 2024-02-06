@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Payroll3
+comment0.text=\ This\ class\ is\ a\ program\ to\ do\ a\ simple\ payroll\ producing\ a\ report.\r\n\ \r\n\ @author\ David\ Hughes\r\n\ \r\n\ @version\ 1.0\ (Aug.\ 2009)\r\n\r\nnew\ concepts\:\ persistent\ objects
+comment1.params=
+comment1.target=Payroll3()
+comment1.text=\ The\ constructor\ opens\ the\ data\ file\ for\ the\ emp\ info,\ creates\ the\r\n\ prompter\ for\ user\ input,\ sets\ up\ theprinter\ for\ the\ report\ and\ creates\r\nthe\ new\ emp\ info\ file.
+comment2.params=
+comment2.target=void\ doMonthEnd()
+comment2.text=\ This\ method\ does\ the\ monthly\ payroll\ for\ a\ small\ company\ generating\ a\r\nreport.
+comment3.params=
+comment3.target=void\ buildForm()
+comment3.text=This\ method\ builds\ the\ form\ for\ user\ input
+comment4.params=date
+comment4.target=void\ setUpReport(java.util.Date)
+comment4.text=\ This\ method\ sets\ up\ the\ report,\ adding\ all\ fields.\r\n\ \r\n@param\ \ date\ \ date\ for\ payroll\ report
+comment5.params=totPay\ totYTDPay
+comment5.target=void\ writeSummary(double,\ double)
+comment5.text=\ This\ method\ generates\ the\ report\ summary.\r\n\ \r\n\ @param\ \ totPay\ \ \ \ \ total\ pay\ for\ all\ employees\r\n@param\ \ totYTDPay\ \ total\ YTD\ pay\ for\ all\ employees
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

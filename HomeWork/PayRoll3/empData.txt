@@ -1,0 +1,4 @@
+111111	Ima First	10.0	1200.0
+222222	Joe Slacker	15.0	3200.0
+333333	Able Worker	11.5	1705.5
+444444	Wilma Wonder	23.5	4785.5

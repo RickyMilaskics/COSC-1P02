@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ColorPicker
+comment0.text=\r\n\ This\ class\ is\ a\ program\ to\ show\ color\ represented\ by\ RGB\ value.\r\n\r\n\ @author\ D.\ Hughes,\ Tristan\ Navikevicius\r\n\ @version\ 2.0\ (November\ 2023)\r\n\ <p>\r\n\ new\ concepts\:\ Picture\ constructor,\ function\ method\r\n
+comment1.params=
+comment1.target=ColorPicker()
+comment1.text=\r\n\ The\ constructor\ creates\ and\ displays\ the\ color\ swatch.\r\n
+comment2.params=
+comment2.target=void\ buildForm()
+comment3.params=width\ height\ aColor
+comment3.target=Media.Picture\ makeSwatch(int,\ int,\ java.awt.Color)
+comment3.text=\r\n\ This\ method\ creates\ a\ color\ swatch\ of\ specified\ size\ and\ color.\r\n\r\n\ @param\ width\ \ width\ of\ color\ swatch\r\n\ @param\ height\ height\ of\ color\ swatch\r\n\ @param\ aColor\ color\ for\ swatch\r\n\ @return\ Picture\ \ the\ color\ swatch\ as\ a\ Picture\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ListEmpFile
+comment0.text=\ This\ class\ is\ a\ program\ to\ list\ the\ binary\ employee\ file.\r\n\ \r\n\ @author\ David\ Hughes\r\n\ \r\n\ @version\ 1.0\ (Aug.\ 2008)\r\n\r\nnew\ concepts\:\ reading\ a\ binary\ file
+comment1.params=
+comment1.target=ListEmpFile()
+comment1.text=\ The\ constructor\ opens\ the\ data\ file\ for\ the\ emp\ info\ and\ creates\ a\r\ndisplay\ for\ the\ listing.
+comment2.params=
+comment2.target=void\ list()
+comment2.text=This\ method\ lists\ the\ binary\ employee\ file.
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

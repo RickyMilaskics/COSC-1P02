@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HomeWork3
+comment1.params=
+comment1.target=HomeWork3()
+comment2.params=pic
+comment2.target=Media.Picture\ flip(Media.Picture)
+comment3.params=pic
+comment3.target=Media.Picture\ gamma(Media.Picture)
+numComments=4

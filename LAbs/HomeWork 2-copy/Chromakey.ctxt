@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Chromakey
+comment0.text=\ This\ class\ is\ a\ program\ to\ produce\ produce\ a\ new\ picture\ using\ chromakey\r\n\ (green\ screen).\r\n\ \r\n\ @author\ Dave\ Hughes\r\n\ \r\n\ @version\ 1.0\ (Oct.\ 2008)\r\n
+comment1.params=
+comment1.target=Chromakey()
+comment1.text=The\ constructor\ does\ no\ initialization.
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\ This\ method\ loads\ the\ green\ screen\ and\ background\ pictures\ and\ produces\r\nthe\ new\ picture\ using\ chromakey.
+comment3.params=fore\ back\ tolerance
+comment3.target=Media.Picture\ compose(Media.Picture,\ Media.Picture,\ double)
+comment3.text=\ This\ method\ creates\ a\ new\ picture\ from\ the\ foreground\ and\ background\r\n\ images\ using\ chromakey.\r\n\ \r\n\ @param\ \ fore\ \ \ \ \ \ \ picture\ with\ greenscreen\r\n\ @param\ \ back\ \ \ \ \ \ \ background\ image\r\n\ @param\ \ tolerance\ \ tolerance\ for\ chromakey\ check\r\n\r\n@return\ \ Picture\ \ composed\ picture.
+comment4.params=c1\ c2
+comment4.target=double\ distance(java.awt.Color,\ java.awt.Color)
+comment4.text=\ This\ method\ computes\ the\ color\ distance\ between\ two\ colors\r\n\ \r\n\ @param\ \ c1\ \ first\ color\r\n\ @param\ \ c2\ \ second\ color\r\n\ \r\n@return\ \ double\ \ color\ distance\ between\ c1\ &\ c2
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Polygon
+comment1.params=
+comment1.target=Polygon()
+comment2.params=radius\ sides\ repeat
+comment2.target=void\ Poly(double,\ double,\ int)
+comment3.params=radius\ sides
+comment3.target=void\ createShape(double,\ double)
+comment4.params=radius\ sides
+comment4.target=void\ topLeft(double,\ double)
+numComments=5
